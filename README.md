@@ -1,7 +1,5 @@
 # TaskTracker API (devsecops-p5-NIM)
 
-![DevSecOps Pipeline](https://github.com/USERNAME/devsecops-p5-NIM/actions/workflows/devsecops.yml/badge.svg)
-
 ## 1. Nama Aplikasi & Fungsi
 **TaskTracker API** adalah REST API sederhana untuk mengelola daftar tugas (to-do):
 membuat, melihat, memperbarui, menghapus, menyaring tugas berdasarkan status/prioritas,
