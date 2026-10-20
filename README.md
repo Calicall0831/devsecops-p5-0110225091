@@ -1,4 +1,4 @@
-# TaskTracker API (devsecops-p5-NIM)
+# TaskTracker API (devsecops-p5-0110225091)
 
 ## 1. Nama Aplikasi & Fungsi
 **TaskTracker API** adalah REST API sederhana untuk mengelola daftar tugas (to-do):
@@ -27,8 +27,8 @@ scripts/quality_gate.py
 
 ## 3. Cara Menjalankan
 ```bash
-git clone https://github.com/USERNAME/devsecops-p5-NIM.git
-cd devsecops-p5-NIM
+git clone https://github.com/USERNAME/devsecops-p5-0110225091.git
+cd devsecops-p5-0110225091
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements-dev.txt
 python run.py                                       # http://127.0.0.1:5000
